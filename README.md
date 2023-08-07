@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumandas1999
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 9078940019
+- 📫 How to reach 
 
 <!---
 Sumandas1999/Sumandas1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
