@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Sumandas1999
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 9078940019
 
